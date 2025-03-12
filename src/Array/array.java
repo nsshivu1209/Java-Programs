@@ -6,7 +6,7 @@ public class array {
         System.out.println(a);
         System.out.println(a[0]);
         System.out.println(a[2]);
-        System.out.println(a[4]);
+        System.out.println(a[4])
         System.out.println(a.length - 1);
     }
 }
